@@ -1,0 +1,6 @@
+Projects
+
+WebServices-iPhone-I	:	Added to GIT - looking at modifying Service1.cs to JSON name:value pairs
+FindPitch				: 	Trying to get the data loaded into database. Advise to use JSON script now.
+iCCPC					:	Fixed back Links and Map
+jqTouch-Map				:	Copied to git; map not working properly
